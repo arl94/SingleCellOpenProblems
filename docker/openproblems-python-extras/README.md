@@ -11,6 +11,7 @@ Python packages:
 * harmonic-alignment
 * pybedtools
 * pyensembl
+* scanpy
 * magic-impute
 * molecular-cross-validation
 * MulticoreTSNE
